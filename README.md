@@ -19,7 +19,12 @@ Other than that you may get stickers and various gifts acccording to the project
 
 First you have to register to hacktoberfest.
 
+
+![Hacktoberfest registration](https://user-images.githubusercontent.com/58045206/98373869-e0309c80-2065-11eb-98a7-b61d476b7313.jpeg)
+
+
 Then under the HACKTOBERFEST PROJECT you can find the desired project from any programming languages and you have go to the relavent repo.
+
 
 You can contribute to participating projects on GitHub. However, pull requests made after October 31st will not count towards Hacktoberfest. So make sure to
 make PRs before 31st of October.
