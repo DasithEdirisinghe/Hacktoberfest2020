@@ -17,13 +17,22 @@ Other than that you may get stickers and various gifts acccording to the project
 
 # How to contribute
 
-First you have to register to hacktoberfest.
+First you have to register to hacktoberfest by clicking Start Hacking Button.
 
 
 ![Hacktoberfest registration](https://user-images.githubusercontent.com/58045206/98373869-e0309c80-2065-11eb-98a7-b61d476b7313.jpeg)
 
+****************************************************************************************************************************************
+
+
 
 Then under the HACKTOBERFEST PROJECT you can find the desired project from any programming languages and you have go to the relavent repo.
+
+
+
+![Hacktoberfest Projects](https://user-images.githubusercontent.com/58045206/98378246-c5f9bd00-206b-11eb-9f86-bbdfc8988645.png)
+
+***********************************************************************************************************************************************
 
 
 You can contribute to participating projects on GitHub. However, pull requests made after October 31st will not count towards Hacktoberfest. So make sure to
@@ -45,6 +54,17 @@ Most common path:
     After reviewing the PR will be merged.
    
 After making PRs and merged to the main repo contributors have to wait a 14 days of review period which will be done by Hacktoberfest crew.
+
+After review period ends you can claim your prizes. XD XD 
+
+![Hacktoberfest Completed](https://user-images.githubusercontent.com/58045206/98378275-cdb96180-206b-11eb-9fd3-02ee1b75600d.png)
+
+
+Thank you !!
+
+*************************************************************************************************************************************************
+
+
 
   
 
