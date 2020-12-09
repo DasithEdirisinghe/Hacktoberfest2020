@@ -1,6 +1,6 @@
 # Hacktoberfest2020
 
-Hacktoberfest is a open source event which is held annually on month of october by Digital ocean + inte + Dev for open source contributors of any expert level and it is a good intial point to who are new to open source world.
+Hacktoberfest is a open source event which is held annually on month of October by Digital ocean + intel + Dev for open source contributors of any expert level and it is a good intial point to who are new to open source world.
 
 I start my open source journey by contributing this years hacktoberfest and it was really 
 an amazing experience and I could gain more knowledge regarding the workflow of an open source contribution.
